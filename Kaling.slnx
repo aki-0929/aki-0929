@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/0/">
+    <Project Path="Kaling/Kaling.csproj" Id="4dd837f1-ec54-419e-b56d-fe9c59f9c3e0" />
+  </Folder>
+  <Folder Name="/1/">
+    <Project Path="Kaling.StressTest/Kaling.StressTest.csproj" />
+    <Project Path="Kaling.MSBuild.Cpp.DefaultPropsInstaller/Kaling.MSBuild.Cpp.DefaultPropsInstaller.csproj" />
+  </Folder>
+</Solution>
